@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2988b6b6-2016-4428-b164-135e0d2d6f50": {
+      "ProjectGuid": "2988b6b6-2016-4428-b164-135e0d2d6f50",
+      "DisplayName": "Business",
+      "ColorIndex": 0
+    },
+    "c9dd8616-ebe0-472f-afc9-d7c959a17689": {
+      "ProjectGuid": "c9dd8616-ebe0-472f-afc9-d7c959a17689",
+      "DisplayName": "Core",
+      "ColorIndex": 1
+    },
+    "6d2c73ce-da38-4626-9aed-3e9fca56a38c": {
+      "ProjectGuid": "6d2c73ce-da38-4626-9aed-3e9fca56a38c",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 2
+    },
+    "3a8d505c-5125-4032-b369-e61ceb1d41a5": {
+      "ProjectGuid": "3a8d505c-5125-4032-b369-e61ceb1d41a5",
+      "DisplayName": "Entities",
+      "ColorIndex": 3
+    },
+    "e5c5e599-3f9c-47f5-82dc-cb1d1e0a0cdc": {
+      "ProjectGuid": "e5c5e599-3f9c-47f5-82dc-cb1d1e0a0cdc",
+      "DisplayName": "UdemyApı",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}
